@@ -1,2 +1,2 @@
-# cryptocurrency-cs431
-Group project for CS 431 cryptocurrency project
+# cryptocurrency-cryptocurrency-sentiment-analysis-prediction
+Group project for cryptocurrency project
